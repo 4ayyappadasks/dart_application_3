@@ -9,7 +9,7 @@ String email = "ayyappanks141@gamail.com";
 
 //ptint as output
 
-print("my name is : $name");
+print("my name is  $name");
 print("am $age year old");
 print("my mobile no is $phone");
 print("mark obtained: $mark");
